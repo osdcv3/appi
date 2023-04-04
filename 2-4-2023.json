@@ -1,0 +1,1 @@
+{ "ApiNome": "Guia do fut", "Versao": "1.0", "Plano": "inicial", "Campeonatos": "diversos", "active": true, "members": [ { "MandanteLogo": "https://e.imguol.com/futebol/brasoes/40x40/valencia.png", "VisitanteLogo": "https://e.imguol.com/futebol/brasoes/40x40/rayo-vallecano.png", "MandanteNome": "Valencia", "VisitanteNome": "Rayo Vallecano", "Hora": "16:00", "Canal": "espn4" } ] }
